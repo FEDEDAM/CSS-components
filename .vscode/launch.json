@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Launch Microsoft Edge and open the Edge DevTools",
+            "request": "launch",
+            "type": "vscode-edge-devtools.debug",
+            "url": "file:///E:/CURSOS/CSS/CSS_Components/Navbar/Action%20Menu%20Button/index.html" 
+        }
+    ]
+}
